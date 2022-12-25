@@ -39,3 +39,4 @@ const port = 3000
 app.listen(port, (res) => console.log(`Calculator api listening on port ${port}!`))
 
 
+module.exports = app
